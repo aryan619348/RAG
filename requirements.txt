@@ -1,12 +1,10 @@
 openai
 langchain
 faiss-cpu
-fastapi
 tiktoken
 python-dotenv
 pillow
 langchain-core
-streamlit
 langchain-experimental
 tabulate
 pypdf
