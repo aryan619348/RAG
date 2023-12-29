@@ -15,9 +15,11 @@ https://huggingface.co/spaces/Aryan619348/rag
 2. Create a new Virtual Environment
 
 3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
    
 5. Run the app:
+   ```bash  
    python app.py
 
 
