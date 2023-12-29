@@ -2,6 +2,8 @@
 
 Welcome to the RAG Chatbot project! This chatbot utilizes Retrieval-Augmented Generation (RAG) to provide natural language interaction based on uploaded PDF and CSV files.
 
+Built Using 🦜️🔗 LangChain OpenAI and FAISS
+
 ## Deployed at 
 https://huggingface.co/spaces/Aryan619348/rag
 
@@ -25,6 +27,8 @@ https://huggingface.co/spaces/Aryan619348/rag
 
 ## How It Works
 This chatbot integrates LangChain, OpenAI, and FAISS to perform Retrieval-Augmented Generation. Users can upload their PDF and CSV files, then ask questions based on the provided documents. The chatbot retrieves relevant information from the uploaded files to generate context-aware responses.
+
+
 
 ## Future Improvements
 1. Support for More File Types:
